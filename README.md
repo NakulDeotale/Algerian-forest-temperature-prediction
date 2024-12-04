@@ -1,0 +1,1 @@
+# End to End machine learning project on Algerian Forest Temperature Prediction.
